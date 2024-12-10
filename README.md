@@ -3,6 +3,8 @@
 This **Weather Dashboard Application** provides users with accurate weather forecasts and a visual map for any city worldwide. 
 The app is built using modern web technologies and showcases dynamic functionality and responsive design.
 
+![App Screenshot](./screenshots/screenshot1.png)
+
 ---
 
 ## 🌟 Features
